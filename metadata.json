@@ -1,0 +1,6 @@
+{
+  "name": "Neon Rush",
+  "description": "An exhilarating high-speed 2D neon endless runner game featuring synthwave aesthetics, procedural cyber obstacles, smooth jumping and sliding controls, power-ups, customizable neon runners, and procedural synth soundtrack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
